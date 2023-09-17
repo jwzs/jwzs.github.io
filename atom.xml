@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>樊煜的主页</title>
+  <title>樊煜</title>
   
-  <subtitle>测试用</subtitle>
+  <subtitle>天马行空</subtitle>
   <link href="https://jwzs.github.io/atom.xml" rel="self"/>
   
   <link href="https://jwzs.github.io/"/>
