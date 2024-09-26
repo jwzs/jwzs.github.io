@@ -6,7 +6,7 @@
   <link href="https://jwzs.github.io/atom.xml" rel="self"/>
   
   <link href="https://jwzs.github.io/"/>
-  <updated>2023-09-16T13:33:30.985Z</updated>
+  <updated>2023-10-08T02:57:04.667Z</updated>
   <id>https://jwzs.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post test</title>
+    <link href="https://jwzs.github.io/2023/10/08/post-test/"/>
+    <id>https://jwzs.github.io/2023/10/08/post-test/</id>
+    <published>2023-10-08T02:57:04.000Z</published>
+    <updated>2023-10-08T02:57:04.667Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
