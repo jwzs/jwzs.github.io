@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>Follow</title>
-      <link href="/2024/09/27/follow/"/>
-      <url>/2024/09/27/follow/</url>
+      <title></title>
+      <link href="/2024/09/27/music/"/>
+      <url>/2024/09/27/music/</url>
       
-        <content type="html"><![CDATA[<p>This message is used to verify that this feed (feedId:62189514925094912) belongs to me (userId:62040641941152768). Join me in enjoying the next generation information browser <a href="https://follow.is/">https://follow.is</a>.</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>post test</title>
-      <link href="/2023/10/08/post-test/"/>
-      <url>/2023/10/08/post-test/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">title: 随机音乐</span><br><span class="line">collapse: close</span><br><span class="line">```dataviewjs</span><br><span class="line">let history = Object.assign(JSON.parse(await app.vault.adapter.read(&quot;.obsidian/.diary-stats&quot;)));</span><br><span class="line">let today = moment().format(&quot;YYYY-MM-DD&quot;);</span><br><span class="line">if (history.hasOwnProperty(today))</span><br><span class="line">&#123;</span><br><span class="line">let music=history[today].music;</span><br><span class="line">dv.el(&quot;blockquote&quot;, music);</span><br><span class="line">&#125;</span><br><span class="line">```</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">title: 自选歌单</span><br><span class="line">collapse: close</span><br><span class="line"> &lt;iframe frameborder=&quot;0&quot; border=&quot;1&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=100% height=86 src=&quot;https://music.163.com/outchain/player?type=2&amp;id=488249475&amp;auto=0&amp;height=66&quot;&gt; &lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line"> &lt;iframe frameborder=&quot;0&quot; border=&quot;1&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=100% height=86 src=&quot;https://music.163.com/outchain/player?type=2&amp;id=492857516&amp;auto=0&amp;height=66&quot;&gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure><p>%%自行更换代码中的id 可以换成自己的歌单id，下面是推荐的%%<br>%%安静看书的背景音乐 8418150 %%<br>%%好听的热门歌单  6894168416 %%<br>%% 高效率专注记忆音乐  6683129 %%<br>%%lavi共享的歌单 7354648923%%</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">title: 精选歌单</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">6894168416</span><br><span class="line">```</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">8418150</span><br><span class="line">```</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">7354648923</span><br><span class="line">```</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">6683129</span><br><span class="line">```</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">360062344</span><br><span class="line">```</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">5454637196</span><br><span class="line">```</span><br><span class="line">```jsx::Musicbar</span><br><span class="line">2961061456</span><br></pre></td></tr></table></figure><h3 id="更多歌单列表"><a href="#更多歌单列表" class="headerlink" title="更多歌单列表"></a>更多歌单列表</h3><p><a href="https://music.163.com/#/discover/playlist">全部歌单 - 歌单 - 网易云音乐 (163.com)</a></p>]]></content>
       
       
       
